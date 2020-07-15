@@ -1,7 +1,7 @@
 # don't forget to add: require 'pry'
 require 'pry'
 def start_game(player,player2)
-  binding.prylearn
+  binding.pry
   "Hello #{player1} & #{playar2}"
 end
 
